@@ -1,0 +1,32 @@
+# Carpeta node_modules generada por npm
+node_modules/
+
+# Carpeta dist generada por TypeScript
+dist/
+
+# Archivo .env utilizado para configuraciones sensibles
+.env
+
+# Carpeta .vscode generada por Visual Studio Code (puede variar según el IDE)
+.vscode/
+
+# Archivos de registro
+*.log
+
+# Carpeta generada por npm para almacenar el código fuente de las dependencias
+.npm/
+
+# Archivo de bloqueo de dependencias
+package-lock.json
+
+# Carpeta de cobertura generada por herramientas de pruebas (por ejemplo, Istanbul)
+coverage/
+
+# Carpeta generada por IDEs y editores
+.idea/
+
+# Carpeta generada por otros IDEs y editores (puede variar según el IDE)
+*.sublime-project
+*.sublime-workspace
+Thumbs.db
+.DS_Store
